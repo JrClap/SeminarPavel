@@ -1,0 +1,15 @@
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\bin\Debug\net6.0\sem2.exe
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\bin\Debug\net6.0\sem2.deps.json
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\bin\Debug\net6.0\sem2.runtimeconfig.json
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\bin\Debug\net6.0\sem2.dll
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\bin\Debug\net6.0\sem2.pdb
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\sem2.csproj.AssemblyReference.cache
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\sem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\sem2.AssemblyInfoInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\sem2.AssemblyInfo.cs
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\sem2.csproj.CoreCompileInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\sem2.dll
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\refint\sem2.dll
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\sem2.pdb
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\sem2.genruntimeconfig.cache
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem2\obj\Debug\net6.0\ref\sem2.dll
