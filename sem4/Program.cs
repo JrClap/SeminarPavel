@@ -53,3 +53,5 @@ int a = Convert.ToInt32(Console.ReadLine());
 
 Console.Write($"Произведение числе от 1 до {a} равно: {Find(a)}");
 */
+
+
