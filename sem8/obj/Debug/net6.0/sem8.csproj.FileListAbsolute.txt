@@ -1,0 +1,15 @@
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\bin\Debug\net6.0\sem8.exe
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\bin\Debug\net6.0\sem8.deps.json
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\bin\Debug\net6.0\sem8.runtimeconfig.json
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\bin\Debug\net6.0\sem8.dll
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\bin\Debug\net6.0\sem8.pdb
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\sem8.csproj.AssemblyReference.cache
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\sem8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\sem8.AssemblyInfoInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\sem8.AssemblyInfo.cs
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\sem8.csproj.CoreCompileInputs.cache
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\sem8.dll
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\refint\sem8.dll
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\sem8.pdb
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\sem8.genruntimeconfig.cache
+C:\Users\mrjrc\OneDrive\Desktop\SeminarPavel\sem8\obj\Debug\net6.0\ref\sem8.dll
